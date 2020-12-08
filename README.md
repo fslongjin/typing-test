@@ -8,7 +8,8 @@
 &nbsp;
 
 ​	Typing-Test采用apache2.0协议开源，请您在复用的时候，保留该协议并分发给您的用户！
-
+&nbsp;
+如果您觉得Typing-Test还不错，那就麻烦你点亮项目首页上的那颗小小的星星吧！
 &nbsp;
 
 # Typing-Test有什么功能？
